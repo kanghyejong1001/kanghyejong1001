@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanghyejong1001
-- 👀 I’m interested in Computer Vision and Machine Learning
-- 🌱 I’m currently learning deep learning and data science
+- 👀 I’m interested in Front=End and Game
+- 🌱 I’m currently learning Mobile App Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
