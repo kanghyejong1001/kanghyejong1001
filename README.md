@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanghyejong1001
-- 👀 I’m interested in Front-End and Game
-- 🌱 I’m currently learning Mobile App Development
+- 👀 I’m interested in Game and Front-End 
+- 🌱 I’m currently learning Mobile App Development and developing Game
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
